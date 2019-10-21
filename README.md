@@ -1,1 +1,1 @@
-# A very simple tool for speaker identificationn from mel spectrograms.
+# A very simple tool for speaker identification from mel spectrograms.
