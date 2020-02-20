@@ -1,6 +1,6 @@
-# D-vector training/estimation
+# Speaker id/d-vector training and synthesis
 
-The method consists in the one described at
+The method uses the same concept as the one described at
 
 [1] R. Doddipatla et al. "Speaker Adaptation in DNN-Based Speech Synthesis Using d-Vectors", Proc. of INTERSPEECH, 2017.
 
